@@ -1,17 +1,19 @@
-- [General Information](#general-information)
-- [Purpose of project](#purpose-of-project)
-- [Project architecture and design](#project-architecture-and-design)
-  - [Initiation](#initiation)
-  - [Selecting a topic](#selecting-a-topic)
-  - [Generating a question](#generating-a-question)
-  - [Continuing the conversation](#continuing-the-conversation)
-  - [Ending the conversation](#ending-the-conversation)
-- [Tools](#tools)
-- [Setup](#setup)
-- [Next steps](#next-steps)
-  - [Short term (1-2 months)](#short-term-1-2-months)
-  - [Medium term (3-4 months)](#medium-term-3-4-months)
-  - [Long term (5 months+)](#long-term-5-months)
+# BestFriend
+
+  - [General Information](#general-information)
+  - [Purpose of project](#purpose-of-project)
+  - [Project architecture and design](#project-architecture-and-design)
+    - [Initiation](#initiation)
+    - [Selecting a topic](#selecting-a-topic)
+    - [Generating a question](#generating-a-question)
+    - [Continuing the conversation](#continuing-the-conversation)
+    - [Ending the conversation](#ending-the-conversation)
+  - [Tools](#tools)
+  - [Setup](#setup)
+  - [Next steps](#next-steps)
+    - [Short term (1-2 months)](#short-term-1-2-months)
+    - [Medium term (3-4 months)](#medium-term-3-4-months)
+    - [Long term (5 months+)](#long-term-5-months)
   
 ## General Information
 BestFriend is a simple light-weight application that generates random open-ended questions and analyzes the responses of the user to generate more closely defined questions.
